@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteApp</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">이름</string>
+    <string name="btn_login">로그인</string>
+    <string name="btn_register">회원가입</string>
+    <string name="btn_link_to_register">회원가입</string>
+    <string name="btn_link_to_login">로그인</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+</resources>
